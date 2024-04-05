@@ -13,7 +13,7 @@ repository: rladmstn1714/euns0o.github.io
 color-scheme: light
 
 title: Eunsu Kim
-description: "Ph.D. candidate<br>U&I Lab, School of Computing, KAIST"
+description: "Master Studentbr>U&I Lab, School of Computing, KAIST"
 logo: "./assets/photo.png"
 google_analytics: G-016QN3TNY0
 
@@ -32,10 +32,10 @@ sidebar:
     link: "https://scholar.google.com/citations?user=9voXzU0AAAAJ"
   - name: Twitter
     icon: <i class="fab fa-fw fa-twitter-square"></i>
-    link: "https://twitter.com/HaneulYoo13"
+    link: "https://twitter.com/euns0o_kim"
   - name: LinkedIn
     icon: <i class="fab fa-fw fa-linkedin"></i>
     link: "https://linkedin.com/in/haneulyoo"
   - name: GitHub
     icon: <i class="fab fa-fw fa-github"></i>
-    link: "https://github.com/haneul-yoo"
+    link: "https://github.com/rladmstn1714"
