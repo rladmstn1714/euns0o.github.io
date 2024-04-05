@@ -18,7 +18,7 @@ _* denotes equal contributions_
 
 - Hyunwoo Kim, Seoungbin Bae, Junmo Cho, Hoyeon Nam, Junyoung Seo, Seungjae Han, Euiin Yi, **Eunsu Kim**, Young‑Gyu Yoon, Jae‑Byum Chang, ["IMPASTO: Multiplexed cyclic imaging without signal removal via self‑supervised neural unmixing"](https://www.biorxiv.org/content/10.1101/2022.11.22.517463v1)
 
-- **Eunsu Kim**, Sujong Do, Cheoneum Park, [" Korean Named Entity Recognition using D‑Tag"] _(Proceedings of the 34th Annual Conference on Human and Cognitive Language Technology 2022)_
+- **Eunsu Kim**, Sujong Do, Cheoneum Park, " Korean Named Entity Recognition using D‑Tag" _(Proceedings of the 34th Annual Conference on Human and Cognitive Language Technology 2022)_
 
 ## Teaching Experiences
 - **Teaching Assistant**, KAIST
