@@ -7,12 +7,12 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-url: https://haneul-yoo.github.io
-repository: haneul-yoo/haneul-yoo.github.io
+url: https://euns0o.github.io
+repository: rladmstn1714/euns0o.github.io
 # color-scheme: auto
 color-scheme: light
 
-title: Haneul Yoo
+title: Eunsu Kim
 description: "Ph.D. candidate<br>U&I Lab, School of Computing, KAIST"
 logo: "./assets/photo.png"
 google_analytics: G-016QN3TNY0
